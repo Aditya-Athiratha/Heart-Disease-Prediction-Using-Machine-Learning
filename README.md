@@ -7,3 +7,4 @@ dataset available in the UCI machine learning repository(https://archive.ics.uci
 The work focuses mainly on predicting the chances of Heart Disease and classifies patients' risk levels 
 by implementing different supervised learning algorithms such as Naive Bayes, Decision Tree, 
 Logistic Regression, and Random Forest. 
+# Run  the code in Jupyter or Google collab.
